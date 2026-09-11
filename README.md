@@ -26,8 +26,8 @@ streamlit run app.py
 
 The application loads the following cleaned datasets from HuggingFace at startup:
 
-- Job descriptions: https://huggingface.co/datasets/handeyilmaz/job-descriptions-ready-to-use
-- Candidate profiles: https://huggingface.co/datasets/handeyilmaz/candidate-profiles-ready-to-use
+- Job descriptions: https://huggingface.co/datasets/forsislab/forsis_job
+- Candidate profiles: https://huggingface.co/datasets/forsislab/forsis_resume
 
 ## How to Use
 
